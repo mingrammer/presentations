@@ -7,6 +7,12 @@ AWS로 처음 서버 아키텍쳐를 설계해 본 경험 회고 및 공유
 
 > [Slide](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
 
+## Python Report Card
+
+Python 레포지토리 분석 서비스 아키텍쳐 소개
+
+> [Slide](https://speakerdeck.com/mingrammer/python-report-card)
+
 ## Become a Backend Developer (for beginner)
 
 초보자를 위한 백엔드 개발 시작하기
