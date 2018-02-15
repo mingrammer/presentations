@@ -36,3 +36,15 @@ Python 레포지토리 분석 서비스 아키텍쳐 소개
 머신러닝을 위한 매우 기초적인 수학과 이를 응용한 선형 회귀 학습 예제
 
 > [Slide](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)
+
+## Building a Serverless Application with AWS
+
+AWS를 활용한 서버리스 애플리케이션 개발하기 (서버리스 이미지 리사이징 서비스)
+
+> [Slide](https://speakerdeck.com/mingrammer/building-a-serverless-application-with-aws)
+
+## 회사 밖에서 성장하기
+
+회사 밖에서 성장했던 경험기
+
+> [Slide](https://speakerdeck.com/mingrammer/hoesa-baggeseo-seongjanghagi)
